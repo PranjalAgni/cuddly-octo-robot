@@ -1,3 +1,9 @@
+/*
+    What Algorithm says:
+    f(n) = g(n) + h(n);
+    g ==> Cost from starting vertex to current vertex.
+    h ==> Cost fro current vertex to end vertex.
+*/
 var cols = 50;
 var rows = 50;
 var grid = new Array(cols);
