@@ -1,4 +1,5 @@
 # cuddly-octo-robot
+*[Live Demo](https://astar.now.sh)
 This is A* Algorithm visualization and how it works to find the shortest path using Heuristics
 
 ## Getting Started
